@@ -9,7 +9,7 @@ access to Windows NT Registry files.
 These include NTUSER.DAT, userdiff, and SAM. The interface is two-fold:
 a high-level interface suitable for most tasks, and a low level
 set of parsing objects and methods which may be used for advanced
-study of the Windows NT Registry. The library is portable across all
+study of the Windows NT Registry. This library is portable across all
 major platforms.
 
 Usage
